@@ -1,0 +1,14 @@
+body {
+    background-image: url('https://www.portugalresident.com/wp-content/uploads/2020/02/CORONAVIRUS.jpg');
+    background-size: cover;
+    color: white;
+}
+
+.jumbotron {
+    background: rgba(0, 0, 0, 0);
+    margin-bottom: 0rem;
+}
+
+.hide {
+    display: none;
+}
